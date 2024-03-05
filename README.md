@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **about SwiftUI-powered apps,React Native and Python Developement**
 
-- 👯 I’m looking to collaborate on **React Native Apps**
+- 👯 I’m looking to collaborate on **React Native Apps**,**Web Applications**,**IOS/Android Developement**
 
 - 📫 How to reach me **klajdi.gashi@student.uni-pr.edu**
 
