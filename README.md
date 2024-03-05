@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Klajdi(Clyde)</h1>
 <h3 align="center">A passionate Software Engineer from Kosovo</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
 
 - 🔭 I’m currently working on [SwiftUI](https://github.com/KlajdiGashi/IOSapplication),[Python Developement](https://e.ictkosovo.eu/course/238/python-programming)
