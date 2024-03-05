@@ -1,8 +1,9 @@
 <div align="center">
-
-[![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif)](https://github.com/KlajdiGashi)
-
+  <a href="https://github.com/KlajdiGashi">
+    <img src="https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif" alt="MasterHead" width="100%">
+  </a>
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Klajdi(Clyde)</h1>
 <h3 align="center">A passionate Software Engineer from Kosovo</h3>
