@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/KlajdiGashi">
-    <img src="https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif" alt="MasterHead" width="100%" height="100">
+    <img src="https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif" alt="MasterHead" width="100%" height="200">
   </a>
 </div>
 
