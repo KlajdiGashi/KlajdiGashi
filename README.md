@@ -1,7 +1,10 @@
+[![MasterHead](https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif)](https://github.com/KlajdiGashi)
+
+
 <h1 align="center">Hi 👋, I'm Klajdi(Clyde)</h1>
 <h3 align="center">A passionate Software Engineer from Kosovo</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klajdigashi&label=Profile%20views&color=0e75b6&style=flat" alt="klajdigashi" /> </p>
 
 - 🔭 I’m currently working on [SwiftUI](https://github.com/KlajdiGashi/IOSapplication),[Python Developement](https://e.ictkosovo.eu/course/238/python-programming)
 
