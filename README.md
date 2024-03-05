@@ -5,7 +5,7 @@ Hi there 👋
 
 🔭 Currently crafting SwiftUI-powered apps and exploring the realms of React Native and Python development.
 
-👯 Open to collaboration on React apps, MongoDB projects, and iOS/Android app development.
+👯 Open to collaboration on React apps, MongoDB projects,Web applications and iOS/Android app development.
 
 📫 Connect with me:
 
