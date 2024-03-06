@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/KlajdiGashi">
-    <img src="https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif" alt="MasterHead" width="100%" height="270">
+    <img src="https://cdn.dribbble.com/users/31818/screenshots/14955798/media/089daba526124e30ee1fec83def62c0d.gif" alt="MasterHead" width="100%" height="300">
   </a>
 </div>
 
 
 <h1 align="center">Hi 👋, I'm Klajdi(Clyde)</h1>
 <h3 align="center">A passionate Software Engineer from Kosovo</h3>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
 
 - 🔭 I’m currently working on [SwiftUI](https://github.com/KlajdiGashi/IOSapplication),[Python Developement](https://e.ictkosovo.eu/course/238/python-programming)
