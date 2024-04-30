@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif">
 
 
-- 🔭 I’m currently working on [SwiftUI](https://github.com/KlajdiGashi/IOSapplication),[Python Developement](https://e.ictkosovo.eu/course/238/python-programming)
+- 🔭 I’m currently working on [SwiftUI](https://github.com/KlajdiGashi/IOSapplication),[Python Developement](https://e.ictkosovo.eu/course/238/python-programming)[ReactNative]
 
 - 🌱 I’m currently learning **about SwiftUI-powered apps,React Native and Python Developement**
 
