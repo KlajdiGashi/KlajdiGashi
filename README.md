@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **React Native Apps**,**Web Applications**,**IOS/Android Developement**
 
-- 📫 How to reach me **klajdi.gashi@student.uni-pr.edu**
+- 📫 How to reach me **klajdi.gashi01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
