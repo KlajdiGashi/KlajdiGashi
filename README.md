@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [.NET](https://github.com/KlajdiGashi/.NETFramework),[C#](https://github.com/KlajdiGashi/LearningC),Game Development<br><br>- 🌱 I’m currently learning **about SwiftUI-powered apps,React Native,C# Developement and .NET Framework**<br><br>- 📫 How to reach me **klajdi.gashi01@gmail.com**<br>
+- 🔭 I’m currently working on [.NET](https://github.com/KlajdiGashi/.NETFramework),[C#](https://github.com/KlajdiGashi/LearningC),Game Development,[Laravel](https://laravel.com/)<br><br>- 🌱 I’m currently learning **about SwiftUI-powered apps,Laravel Framwork,PHP,C# Developement and .NET Framework**<br><br>- 📫 How to reach me **klajdi.gashi01@gmail.com**<br>
 
 
 ## 🌐 Socials:
