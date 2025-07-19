@@ -1,5 +1,10 @@
-# 💫 About Me:
-- 🔭 I’m currently working on [.NET](https://github.com/KlajdiGashi/.NETFramework),[C#](https://github.com/KlajdiGashi/LearningC),Game Development,[Laravel](https://laravel.com/)<br><br>- 🌱 I’m currently learning **about SwiftUI-powered apps,Laravel Framwork,PHP,C# Developement and .NET Framework**<br><br>- 📫 How to reach me **klajdi.gashi01@gmail.com**<br>
+## 💻 About Me
+
+I'm a developer passionate about building full-stack applications, game projects, and learning modern frameworks and languages.
+
+- 🎯 Focused on: [.NET](https://github.com/KlajdiGashi/.NETFramework), [C#](https://github.com/KlajdiGashi/LearningC), Game Dev, [Laravel](https://laravel.com/)
+- 📚 Exploring: **Game Development**, **PHP**, **Lua**, **.NET**, **Laravel**, and **C#**
+- 📬 Reach me at: [klajdi.gashi01@gmail.com](mailto:klajdi.gashi01@gmail.com)
 
 
 ## 🌐 Socials:
